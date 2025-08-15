@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142261220599",
+    "project_id": "stocktradeapp-63220",
+    "storage_bucket": "stocktradeapp-63220.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142261220599:android:012c76dbdadeb357cd4ff2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142261220599-p51deg2vsugl6hp6292vdihjftir0ne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53eZbK4Qs0GXY3THV1L6ipXGrWRSD1p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142261220599-p51deg2vsugl6hp6292vdihjftir0ne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
